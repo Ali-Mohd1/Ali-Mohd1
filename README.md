@@ -1,9 +1,9 @@
 ### Hi there 👋
 
- I am a self-taught UI/UX designer and developer with 4 years of experience currently working as fulltime freelancer do SUBSCRIBE to my youtube channel for more amazing content
+ I am a self-taught UI/UX designer and developer with 4 years of experience currently working as fulltime freelancer do SUBSCRIBE to my youtube channel.
 
-Don't forget to like 👍 subscribe the channel for more videos.
-[Elegant Coder](https://www.youtube.com/channel/UCD82KIkpQ5dtQYFzxLejzGg)
+Don't forget to like 👍 subscribe
+[Elegant Coder](https://www.youtube.com/channel/UCD82KIkpQ5dtQYFzxLejzGg) for more videos
 
 
  Thanks!
