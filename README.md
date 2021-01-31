@@ -1,7 +1,12 @@
 ### Hi there 👋
 
- I am a self-taught UI/UX designer and developer with 4 years of experience currently working as fulltime freelancer do SUBSCRIBE to my youtube channel for more amazing content Thanks!
+ I am a self-taught UI/UX designer and developer with 4 years of experience currently working as fulltime freelancer do SUBSCRIBE to my youtube channel for more amazing content
 
+Don't forget to like 👍 subscribe the channel for more videos.
+[Elegant Coder](https://www.youtube.com/channel/UCD82KIkpQ5dtQYFzxLejzGg)
+
+
+ Thanks!
 <!--
 **Ali-Mohd1/Ali-Mohd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
