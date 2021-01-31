@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I am a self-taught UI/UX designer and developer with 4 years of experience currently working as fulltime freelancer.
+ I am a self-taught UI/UX designer and Front-end developer with 4 years of experience currently working as fulltime freelancer.
 
 Don't forget to LIKE 👍 SUBSCRIBE
 [Elegant Coder](https://www.youtube.com/channel/UCD82KIkpQ5dtQYFzxLejzGg) for more videos 🌱🌱
