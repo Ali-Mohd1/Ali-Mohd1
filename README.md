@@ -1,4 +1,7 @@
 ### Hi there 👋
+Experienced UI/UX designer | Front-end developer 
+
+🔭 I’m currently working as fulltime freelancer
 
 <!--
 **Ali-Mohd1/Ali-Mohd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
