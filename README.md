@@ -1,7 +1,6 @@
 ### Hi there 👋
-Experienced UI/UX designer | Front-end developer 
 
-🔭 I’m currently working as fulltime freelancer
+ I am a self-taught UI/UX designer and developer with 4 years of experience currently working as fulltime freelancer do SUBSCRIBE to my youtube channel for more amazing content Thanks!
 
 <!--
 **Ali-Mohd1/Ali-Mohd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
