@@ -2,7 +2,7 @@
 
 ## 💡 About Me
 - 🌟 4+ years of experience as a **frontend developer**, working on diverse projects from design-to-code to interactive web applications.
-- 🎯 Skilled at **pixel-perfect UI implementation** and optimizing web performance.
+- 🎯 I specialize in building responsive, pixel-perfect interfaces with a strong focus on user-centered design, accessibility, smooth interactions, and modern web standards.
 - 📚 Currently learning **Node.js, Express.js, and MongoDB**.
 - 🌍 Open to remote full-time opportunities.
 
