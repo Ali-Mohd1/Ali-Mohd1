@@ -1,7 +1,7 @@
 <h1 align="center">Hi,  👋  I'm Ali Mohmad</h1>
 
 ## 💡 About Me
-- 🌟 6+ years of experience as a **frontend developer**, I help businesses build modern, responsive, SEO-friendly websites using Next.js, React, Sanity CMS, and Tailwind CSS..
+- 🌟 6+ years of experience as a **frontend developer**, I help businesses build modern, responsive, SEO-friendly websites using Next.js, Astro, React, Sanity CMS, and Tailwind CSS..
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mohd/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/AliMohmadMugal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://youtube.com/elegantcoder) 
